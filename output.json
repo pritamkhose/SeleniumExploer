@@ -1,0 +1,772 @@
+{
+  "fullname": "Pritam Khose",
+  "username": "pritamkhose",
+  "user-profile-bio": "Android Developer",
+  "avtarURL": "https://avatars1.githubusercontent.com/u/13750893?s\u003d460\u0026v\u003d4",
+  "Repositories": "98",
+  "Projects": "0",
+  "Stars": "192",
+  "Followers": "6",
+  "Following": "45",
+  "location": "Pune",
+  "followers_top50": [
+    {
+      "avatarURL": "https://avatars0.githubusercontent.com/u/48798703?s\u003d100\u0026v\u003d4",
+      "organization": "simplesolution.dev",
+      "bio": "https://simplesolution.dev/",
+      "location": " Simple Solution",
+      "fullname": "",
+      "username": "simplesolutiondev"
+    },
+    {
+      "avatarURL": "https://avatars2.githubusercontent.com/u/14170533?s\u003d100\u0026v\u003d4",
+      "organization": "baidu",
+      "bio": "The color changes? Those are career changes: software development to product management, sales to cofounder, etc. They also have some setbacks. Because you know",
+      "location": " beijing",
+      "fullname": "阿啄debugIT",
+      "username": "fleapx"
+    },
+    {
+      "avatarURL": "https://avatars3.githubusercontent.com/u/2345065?s\u003d100\u0026v\u003d4",
+      "organization": "Infosys Ltd",
+      "bio": "Mobile Technology Lead",
+      "location": " Pune",
+      "fullname": "Sandeep Armal",
+      "username": "sandiparmal"
+    },
+    {
+      "avatarURL": "https://avatars0.githubusercontent.com/u/194400?s\u003d100\u0026v\u003d4",
+      "organization": "@dwyl",
+      "bio": "Love learning/reading/writing code @dwyl Systematic about sharing all knowledge/skills. Learn something new every day. GOTO: github.com/dwyl/?q\u003dlearn",
+      "location": " London",
+      "fullname": "Nelson",
+      "username": "nelsonic"
+    },
+    {
+      "avatarURL": "https://avatars3.githubusercontent.com/u/33648151?s\u003d100\u0026v\u003d4",
+      "fullname": "",
+      "username": "nkhose"
+    },
+    {
+      "avatarURL": "https://avatars3.githubusercontent.com/u/25904950?s\u003d100\u0026v\u003d4",
+      "fullname": "Kumar Vedantham",
+      "username": "droidcoder19"
+    }
+  ],
+  "following_top50": [
+    {
+      "avatarURL": "https://avatars0.githubusercontent.com/u/194400?s\u003d100\u0026v\u003d4",
+      "organization": "@dwyl",
+      "bio": "Love learning/reading/writing code @dwyl Systematic about sharing all knowledge/skills. Learn something new every day. GOTO: github.com/dwyl/?q\u003dlearn",
+      "location": " London",
+      "fullname": "Nelson",
+      "username": "nelsonic"
+    },
+    {
+      "avatarURL": "https://avatars1.githubusercontent.com/u/4660275?s\u003d100\u0026v\u003d4",
+      "bio": "@wemake-services Moscow, Russia",
+      "fullname": "Nikita Sobolev",
+      "username": "sobolevn"
+    },
+    {
+      "avatarURL": "https://avatars2.githubusercontent.com/u/10776230?s\u003d100\u0026v\u003d4",
+      "organization": "",
+      "bio": "Senior Software Dev turned Instructor",
+      "location": "Toronto, Canada",
+      "fullname": "Andrei Neagoie",
+      "username": "aneagoie"
+    },
+    {
+      "avatarURL": "https://avatars2.githubusercontent.com/u/5550850?s\u003d100\u0026v\u003d4",
+      "organization": "Traversy Media",
+      "bio": "I am a full stack web developer specializing mostly in JavaScript/Node.js but also work with PHP, Python \u0026 Rails. I am an online instructor for Traversy Media",
+      "location": " Boston",
+      "fullname": "Brad Traversy",
+      "username": "bradtraversy"
+    },
+    {
+      "avatarURL": "https://avatars0.githubusercontent.com/u/31110235?s\u003d100\u0026v\u003d4",
+      "organization": "",
+      "bio": "Developer/Youtuber/Designer",
+      "location": "Romania",
+      "fullname": "Simo Edwin",
+      "username": "developedbyed"
+    },
+    {
+      "avatarURL": "https://avatars0.githubusercontent.com/u/5003903?s\u003d100\u0026v\u003d4",
+      "fullname": "Stephen Grider",
+      "username": "StephenGrider"
+    },
+    {
+      "avatarURL": "https://avatars1.githubusercontent.com/u/22451426?s\u003d100\u0026v\u003d4",
+      "organization": "",
+      "bio": "Founder 9lessons.info",
+      "location": "Atlanta",
+      "fullname": "Srinivas Tamada",
+      "username": "srinivastamada"
+    },
+    {
+      "avatarURL": "https://avatars2.githubusercontent.com/u/23506405?s\u003d100\u0026v\u003d4",
+      "organization": "@nodejsera",
+      "bio": "Nodejsera is a platform which deals with providing simple and easy to understand tutorials and Articles for web-development",
+      "location": " Chandigarh",
+      "fullname": "nodejsera",
+      "username": "nodejsera"
+    },
+    {
+      "avatarURL": "https://avatars0.githubusercontent.com/u/10355?s\u003d100\u0026v\u003d4",
+      "organization": "",
+      "bio": "I make things with computers.",
+      "location": "Berkeley, CA",
+      "fullname": "Jared Hanson",
+      "username": "jaredhanson"
+    },
+    {
+      "avatarURL": "https://avatars1.githubusercontent.com/u/35563440?s\u003d100\u0026v\u003d4",
+      "organization": "Elite Athlete Coaching",
+      "bio": "I am a Software Engineer who is studying a BSc in Software Engineering at the university of Gothenburg.",
+      "location": " Gothenburg, Sweden",
+      "fullname": "kalle hallden",
+      "username": "KalleHallden"
+    },
+    {
+      "avatarURL": "https://avatars0.githubusercontent.com/u/44921899?s\u003d100\u0026v\u003d4",
+      "organization": "",
+      "bio": "Flutter Software Engineer https://twitter.com/JohannesMilke",
+      "location": "Germany - Munich",
+      "fullname": "Johannes Milke",
+      "username": "JohannesMilke"
+    },
+    {
+      "avatarURL": "https://avatars1.githubusercontent.com/u/3257794?s\u003d100\u0026v\u003d4",
+      "organization": "",
+      "bio": "Developer@REDMIC",
+      "location": "Santa Cruz de Tenerife",
+      "fullname": "Pedro Trujillo",
+      "username": "pedroetb"
+    },
+    {
+      "avatarURL": "https://avatars0.githubusercontent.com/u/20351909?s\u003d100\u0026v\u003d4",
+      "organization": "",
+      "bio": "Passionate developer",
+      "location": "Nazret",
+      "fullname": "Abdi Hamid",
+      "username": "devefy"
+    },
+    {
+      "avatarURL": "https://avatars3.githubusercontent.com/u/1615196?s\u003d100\u0026v\u003d4",
+      "bio": "Ecole Polytechnique France",
+      "fullname": "xwei",
+      "username": "X-Wei"
+    },
+    {
+      "avatarURL": "https://avatars1.githubusercontent.com/u/14139137?s\u003d100\u0026v\u003d4",
+      "organization": "in28Minutes",
+      "bio": "Best Selling Instructor on Udemy with 300000 Students",
+      "location": " Hyderabad, India",
+      "fullname": "",
+      "username": "in28minutes"
+    },
+    {
+      "avatarURL": "https://avatars3.githubusercontent.com/u/490294?s\u003d100\u0026v\u003d4",
+      "organization": "Adobe",
+      "bio": "JavaScript, Web Performance and Accessibility.",
+      "location": " San Francisco, CA",
+      "fullname": "Jon Kuperman",
+      "username": "jkup"
+    },
+    {
+      "avatarURL": "https://avatars2.githubusercontent.com/u/6508608?s\u003d100\u0026v\u003d4",
+      "bio": "Toronto",
+      "fullname": "Keith Weaver",
+      "username": "keithweaver"
+    },
+    {
+      "avatarURL": "https://avatars1.githubusercontent.com/u/40860500?s\u003d100\u0026v\u003d4",
+      "fullname": "",
+      "username": "nareshpatilk"
+    },
+    {
+      "avatarURL": "https://avatars1.githubusercontent.com/u/17446480?s\u003d100\u0026v\u003d4",
+      "organization": "CodingWithMitch",
+      "bio": "youtube.com/c/codingwithmitch",
+      "location": "",
+      "fullname": "Mitch Tabian",
+      "username": "mitchtabian"
+    },
+    {
+      "avatarURL": "https://avatars0.githubusercontent.com/u/19144132?s\u003d100\u0026v\u003d4",
+      "organization": "JournalDev",
+      "bio": "Open Source Enthusiast, Love to code and share my knowledge with others through my website and YouTube videos. Working in IT industry for more than 12 years.",
+      "location": " India",
+      "fullname": "Pankaj Kumar",
+      "username": "journaldev"
+    },
+    {
+      "avatarURL": "https://avatars3.githubusercontent.com/u/2345065?s\u003d100\u0026v\u003d4",
+      "organization": "Infosys Ltd",
+      "bio": "Mobile Technology Lead",
+      "location": " Pune",
+      "fullname": "Sandeep Armal",
+      "username": "sandiparmal"
+    },
+    {
+      "avatarURL": "https://avatars1.githubusercontent.com/u/497670?s\u003d100\u0026v\u003d4",
+      "organization": "AndroidHive | Droid5",
+      "bio": "Founder of androidhive.info \u0026 droid5.com",
+      "location": " India",
+      "fullname": "Ravi Tamada",
+      "username": "ravi8x"
+    },
+    {
+      "avatarURL": "https://avatars1.githubusercontent.com/u/10099049?s\u003d100\u0026v\u003d4",
+      "bio": "I am a technology savvy professional. I love blogging.You can visit my blog at https://www.devglan.com",
+      "fullname": "Dhiraj Ray",
+      "username": "only2dhir"
+    },
+    {
+      "avatarURL": "https://avatars3.githubusercontent.com/u/33648151?s\u003d100\u0026v\u003d4",
+      "fullname": "",
+      "username": "nkhose"
+    },
+    {
+      "avatarURL": "https://avatars3.githubusercontent.com/u/1949576?s\u003d100\u0026v\u003d4",
+      "organization": "Nextzy Technologies Co.,Ltd.",
+      "bio": "Lovely android developer who enjoys learning in android technology, habitual article writer about Android development for Android community in Thailand.",
+      "location": " Thailand",
+      "fullname": "Akexorcist",
+      "username": "akexorcist"
+    },
+    {
+      "avatarURL": "https://avatars0.githubusercontent.com/u/9478845?s\u003d100\u0026v\u003d4",
+      "bio": "Simplified Coding Ranchi, Jharkhand",
+      "fullname": "Belal Khan",
+      "username": "probelalkhan"
+    },
+    {
+      "avatarURL": "https://avatars2.githubusercontent.com/u/174647?s\u003d100\u0026v\u003d4",
+      "bio": "Sydney",
+      "fullname": "Viral Patel",
+      "username": "viralpatel"
+    },
+    {
+      "avatarURL": "https://avatars2.githubusercontent.com/u/3790591?s\u003d100\u0026v\u003d4",
+      "organization": "Stacktips",
+      "bio": "Stacktips provides programming tutorials, code snippets and open source projects. Created and maintained by @npanigrahy",
+      "location": " London, United Kingdom",
+      "fullname": "Stacktips",
+      "username": "stacktipslab"
+    },
+    {
+      "avatarURL": "https://avatars3.githubusercontent.com/u/1833474?s\u003d100\u0026v\u003d4",
+      "organization": "CyberAgent, Inc.",
+      "bio": "Google Developers Expert for Android",
+      "location": " Tokyo, Japan",
+      "fullname": "Daichi Furiya",
+      "username": "wasabeef"
+    },
+    {
+      "avatarURL": "https://avatars3.githubusercontent.com/u/12139017?s\u003d100\u0026v\u003d4",
+      "organization": "Grafix Artist",
+      "bio": "UX UI Designer \u0026 App Developer",
+      "location": " USA",
+      "fullname": "Suleiman Ali Shakir",
+      "username": "Suleiman19"
+    },
+    {
+      "avatarURL": "https://avatars1.githubusercontent.com/u/1496485?s\u003d100\u0026v\u003d4",
+      "bio": "CyberAgent, Inc. Japan",
+      "fullname": "ogaclejapan",
+      "username": "ogaclejapan"
+    },
+    {
+      "avatarURL": "https://avatars0.githubusercontent.com/u/10301844?s\u003d100\u0026v\u003d4",
+      "bio": "Maldives",
+      "fullname": "Mohamed Ifah",
+      "username": "Ifah"
+    },
+    {
+      "avatarURL": "https://avatars0.githubusercontent.com/u/6221269?s\u003d100\u0026v\u003d4",
+      "bio": "Dynamsoft Vancouver, Canada",
+      "fullname": "Desmond Shaw",
+      "username": "DynamsoftRD"
+    },
+    {
+      "avatarURL": "https://avatars0.githubusercontent.com/u/552452?s\u003d100\u0026v\u003d4",
+      "organization": "@twitter",
+      "bio": "work @twitterdev - community, code, and respect",
+      "location": " Kingston upon Thames, UK",
+      "fullname": "Andy Piper",
+      "username": "andypiper"
+    },
+    {
+      "avatarURL": "https://avatars2.githubusercontent.com/u/92207?s\u003d100\u0026v\u003d4",
+      "organization": "",
+      "bio": "DevOps engineer, long-time web developer. I prefer to self-host.",
+      "location": "St Augustine, FL",
+      "fullname": "Alan Szlosek Jr",
+      "username": "alanszlosek"
+    },
+    {
+      "avatarURL": "https://avatars2.githubusercontent.com/u/578021?s\u003d100\u0026v\u003d4",
+      "bio": "@Yandex Novosibirsk",
+      "fullname": "Vladislav Bauer",
+      "username": "vbauer"
+    },
+    {
+      "avatarURL": "https://avatars0.githubusercontent.com/u/1820165?s\u003d100\u0026v\u003d4",
+      "organization": "@square",
+      "bio": "24 years old. Android Engineer @square. Full stack programmer (Android, web, backend). Motorcycle rider. Gamer. Rock/metal music.",
+      "location": " San Francisco Bay Area",
+      "fullname": "Aidan Follestad",
+      "username": "afollestad"
+    },
+    {
+      "avatarURL": "https://avatars3.githubusercontent.com/u/1217229?s\u003d100\u0026v\u003d4",
+      "organization": "Yonsei University",
+      "bio": "CS Ph.D. Candidate",
+      "location": " Republic of Korea",
+      "fullname": "Seonghyeon Nam",
+      "username": "woozzu"
+    },
+    {
+      "avatarURL": "https://avatars3.githubusercontent.com/u/7132104?s\u003d100\u0026v\u003d4",
+      "fullname": "",
+      "username": "benjiwsp"
+    },
+    {
+      "avatarURL": "https://avatars3.githubusercontent.com/u/66577?s\u003d100\u0026v\u003d4",
+      "bio": "Google, Inc. Pittsburgh, PA, USA",
+      "fullname": "Jake Wharton",
+      "username": "JakeWharton"
+    },
+    {
+      "avatarURL": "https://avatars3.githubusercontent.com/u/1808854?s\u003d100\u0026v\u003d4",
+      "organization": "@Tamoco",
+      "bio": "Hello i love 📱📱📱 technologies, i am currently working as an android developer !",
+      "location": " London",
+      "fullname": "Julien Genoud",
+      "username": "JulienGenoud"
+    },
+    {
+      "avatarURL": "https://avatars2.githubusercontent.com/u/227486?s\u003d100\u0026v\u003d4",
+      "bio": "@google working on @android Sydney, Australia",
+      "fullname": "Chris Banes",
+      "username": "chrisbanes"
+    },
+    {
+      "avatarURL": "https://avatars1.githubusercontent.com/u/17140639?s\u003d100\u0026v\u003d4",
+      "organization": "Persistent System pvt.ltd",
+      "bio": "Experience in software development(5+ years) with major focus JAVA , Spring Framework (Spring MVC , Spring boot), Hibernate , Web Designing , MySQL , SQL.",
+      "location": " Nagpur",
+      "fullname": "Pradip Wawge",
+      "username": "pwawge"
+    },
+    {
+      "avatarURL": "https://avatars1.githubusercontent.com/u/1332183?s\u003d100\u0026v\u003d4",
+      "bio": "Kirkland, WA",
+      "fullname": "Tony DiCola",
+      "username": "tdicola"
+    },
+    {
+      "avatarURL": "https://avatars0.githubusercontent.com/u/7920392?s\u003d100\u0026v\u003d4",
+      "bio": "Unity assetstore publisher\u0027s. https://assetstore.unity.com/publishers/7690",
+      "fullname": "Enox Software",
+      "username": "EnoxSoftware"
+    }
+  ],
+  "repositories_top30": [
+    {
+      "name": "My_Flutter",
+      "description": "Group of Flutter Tutorial",
+      "language": "Dart",
+      "info": "Dart 1 Updated 2 days ago",
+      "starcount": "1"
+    },
+    {
+      "name": "aws-serverless-express",
+      "description": "aws-serverless-express",
+      "language": "JavaScript",
+      "info": "JavaScript Apache License 2.0 Updated 6 days ago",
+      "starcount": ""
+    },
+    {
+      "name": "flutter_clock Forked from flutter/flutter_clock",
+      "description": "Flutter Clock Demo app @",
+      "language": "Dart",
+      "info": "Dart 334 BSD 3-Clause \"New\" or \"Revised\" License Updated 10 days ago",
+      "starcount": "334"
+    },
+    {
+      "name": "python-getting-started Forked from heroku/python-getting-started",
+      "description": "Getting Started with Python on Heroku.",
+      "language": "HTML",
+      "info": "HTML 907 Updated 26 days ago",
+      "starcount": "907"
+    },
+    {
+      "name": "Petclinc",
+      "description": "Java Gitpod sample",
+      "language": "Java",
+      "info": "Java 1 Updated 28 days ago",
+      "starcount": "1"
+    },
+    {
+      "name": "Ionic-MyApp",
+      "description": "myApp is ionic hello world project",
+      "language": "TypeScript",
+      "info": "TypeScript Updated on Dec 30, 2019",
+      "starcount": ""
+    },
+    {
+      "name": "RNCode",
+      "description": "",
+      "language": "on Dec 30, 2019",
+      "info": "Updated on Dec 30, 2019",
+      "starcount": ""
+    },
+    {
+      "name": "ReactNative-MyApp",
+      "description": "Helloword react-native app - no expo used",
+      "language": "JavaScript",
+      "info": "JavaScript Apache License 2.0 Updated on Dec 26, 2019",
+      "starcount": ""
+    },
+    {
+      "name": "ReactNativeExpress",
+      "description": "React Native Express app using Expo",
+      "language": "JavaScript",
+      "info": "JavaScript Updated on Dec 25, 2019",
+      "starcount": ""
+    },
+    {
+      "name": "myCloudFunction",
+      "description": "Hello world from Firebase Cloud Function with simple express CORS API",
+      "language": "JavaScript",
+      "info": "JavaScript Apache License 2.0 Updated on Dec 21, 2019",
+      "starcount": ""
+    },
+    {
+      "name": "GithubExplorerFlutter",
+      "description": "Github Explorer Flutter (Android / iOS) App using Github Rest API web services",
+      "language": "Dart",
+      "info": "Dart Updated on Dec 19, 2019",
+      "starcount": ""
+    },
+    {
+      "name": "MyCRM",
+      "description": "MyCRM Angular App",
+      "language": "TypeScript",
+      "info": "TypeScript 1 MIT License Updated on Dec 19, 2019",
+      "starcount": "1"
+    },
+    {
+      "name": "AndroidProductFlavors",
+      "description": "Android Sign product flavors Flavors with dynamic vesion name and apk",
+      "language": "Java",
+      "info": "Java Updated on Dec 19, 2019",
+      "starcount": ""
+    },
+    {
+      "name": "SpringBootDemo",
+      "description": "SpringBoot Example has MYSQL \u0026 MongoDB CRUD, Thymeleaf and internationalization, Swagger Actuator, Spring Security Basic, Logger",
+      "language": "Java",
+      "info": "Java MIT License Updated on Dec 19, 2019",
+      "starcount": ""
+    },
+    {
+      "name": "PHPMySQLRestAPIJSON",
+      "description": "PHP 7.8.3.0 MySQL RestAPI JSON https://pritamphp.herokuapp.com/",
+      "language": "PHP",
+      "info": "PHP MIT License Updated on Dec 15, 2019",
+      "starcount": ""
+    },
+    {
+      "name": "postgreSQL",
+      "description": "Springboot postgreSQL CRUD REST API",
+      "language": "Java",
+      "info": "Java Apache License 2.0 Updated on Dec 8, 2019",
+      "starcount": ""
+    },
+    {
+      "name": "smart-brain-boost-api-dockerized Forked from aneagoie/smart-brain-boost-api-dockerized",
+      "description": "Udemy tutorial - final project API completely dockerized",
+      "language": "JavaScript",
+      "info": "JavaScript 45 Updated on Dec 7, 2019",
+      "starcount": "45"
+    },
+    {
+      "name": "ExpressHelloWorld",
+      "description": "NodeJS Express HelloWorld project --\u003e npm install -g express-generator express --view\u003dpug ExpressHelloWorld cd ExpressHelloWorld npm install git add . git status git commit -m \"Initial commit\" git …",
+      "language": "JavaScript",
+      "info": "JavaScript GNU General Public License v3.0 Updated on Dec 2, 2019",
+      "starcount": ""
+    },
+    {
+      "name": "node-react-graphql",
+      "description": "tutorial https://www.djamware.com/post/5cbd1e9a80aca754f7a9d1f2/node-express-reactjs-graphql-and-mongodb-crud-web-application",
+      "language": "JavaScript",
+      "info": "JavaScript Updated on Dec 1, 2019",
+      "starcount": ""
+    },
+    {
+      "name": "GithubExplorer",
+      "description": "Github Explorer Android App using Github Rest API web services",
+      "language": "Kotlin",
+      "info": "Kotlin 1 Updated on Nov 25, 2019",
+      "starcount": "1"
+    },
+    {
+      "name": "DockerCasts Forked from StephenGrider/DockerCasts",
+      "description": "Companion repo to a course on Udemy.com",
+      "language": "JavaScript",
+      "info": "JavaScript 419 Updated on Nov 17, 2019",
+      "starcount": "419"
+    },
+    {
+      "name": "multi-docker Forked from StephenGrider/multi-docker",
+      "description": "",
+      "language": "JavaScript",
+      "info": "JavaScript 172 Updated on Nov 17, 2019",
+      "starcount": "172"
+    },
+    {
+      "name": "docker-react Forked from StephenGrider/docker-react",
+      "description": "",
+      "language": "JavaScript",
+      "info": "JavaScript 169 Updated on Nov 13, 2019",
+      "starcount": "169"
+    },
+    {
+      "name": "alpinehelloworld Forked from heroku/alpinehelloworld",
+      "description": "An Alpine-based Docker example",
+      "language": "Python",
+      "info": "Python 46 Updated on Nov 12, 2019",
+      "starcount": "46"
+    },
+    {
+      "name": "heroku-jupyter Forked from dipanjannag/heroku-jupyter",
+      "description": "",
+      "language": "Python",
+      "info": "Python 294 MIT License Updated on Nov 10, 2019",
+      "starcount": "294"
+    },
+    {
+      "name": "awsnodeAngular",
+      "description": "Run with NodeJS server https://pritam-node.herokuapp.com/ and Angular web app",
+      "language": "TypeScript",
+      "info": "TypeScript Updated on Nov 10, 2019",
+      "starcount": ""
+    },
+    {
+      "name": "jblogger Forked from sivaprasadreddy/jblogger",
+      "description": "A blogging application using SpringBoot.",
+      "language": "JavaScript",
+      "info": "JavaScript 16 Updated on Nov 7, 2019",
+      "starcount": "16"
+    },
+    {
+      "name": "JWTAuthMongodb",
+      "description": "NodeJS JWT Auth Mongodb",
+      "language": "JavaScript",
+      "info": "JavaScript Updated on Nov 6, 2019",
+      "starcount": ""
+    },
+    {
+      "name": "PythonRestAPI",
+      "description": "Python RestAPI JSON flask mongodb",
+      "language": "Python",
+      "info": "Python MIT License Updated on Nov 2, 2019",
+      "starcount": ""
+    },
+    {
+      "name": "Cordova-MyApp",
+      "description": "Cordova hello world code",
+      "language": "JavaScript",
+      "info": "JavaScript MIT License Updated on Oct 25, 2019",
+      "starcount": ""
+    }
+  ],
+  "stars_top30": [
+    {
+      "description": "Starter pack for an awesome Udemy course",
+      "repository": "ReduxSimpleStarter",
+      "username": "StephenGrider",
+      "info": "JavaScript 3,515 4,941 Updated on Oct 29, 2019"
+    },
+    {
+      "description": "Fast and low overhead web framework fastify benchmarks.",
+      "repository": "benchmarks",
+      "username": "fastify",
+      "info": "JavaScript 205 83 Updated 9 days ago"
+    },
+    {
+      "description": "An index of all our open-source data, analysis, libraries, tools, and guides.",
+      "repository": "everything",
+      "username": "BuzzFeedNews",
+      "info": "782 88 Updated on Nov 12, 2019"
+    },
+    {
+      "description": "A curated list of cryptography resources and links.",
+      "repository": "awesome-cryptography",
+      "username": "sobolevn",
+      "info": "2,257 336 Updated on Nov 11, 2019"
+    },
+    {
+      "description": "Companion repo to a course hosted on Udemy",
+      "repository": "FlutterCasts",
+      "username": "StephenGrider",
+      "info": "Dart 241 105 Updated on Dec 2, 2019"
+    },
+    {
+      "description": "Companion repo to a course on Udemy.com",
+      "repository": "DockerCasts",
+      "username": "StephenGrider",
+      "info": "JavaScript 320 419 Updated on Dec 13, 2019"
+    },
+    {
+      "description": "Companion Repo for a React Native course on Udemy",
+      "repository": "rn-casts",
+      "username": "StephenGrider",
+      "info": "JavaScript 314 147 Updated on Nov 6, 2019"
+    },
+    {
+      "description": "Mobile, desktop and website Apps with the same code",
+      "repository": "react-native-nw-react-calculator",
+      "username": "benoitvallon",
+      "info": "JavaScript 4,913 776 Updated on Nov 3, 2019"
+    },
+    {
+      "description": "A template for react native apps with sidemenu.",
+      "repository": "react-native-sidemenu",
+      "username": "darde",
+      "info": "JavaScript 165 68 Updated on Jan 13, 2019"
+    },
+    {
+      "description": "Source code of the official F8 app of 2017, powered by React Native and other Facebook open source projects.",
+      "repository": "f8app",
+      "username": "fbsamples",
+      "info": "JavaScript 13,769 2,650 Updated 23 days ago"
+    },
+    {
+      "description": "Awesome React Native components, news, tools, and learning material!",
+      "repository": "awesome-react-native",
+      "username": "jondot",
+      "info": "JavaScript 26,389 3,265 Updated 23 hours ago"
+    },
+    {
+      "description": "I\u0027ve made a full tutorial series on building this! \u003d\u003d\u003e",
+      "repository": "microservices-demo",
+      "username": "lucaschen",
+      "info": "JavaScript 276 53 Updated 24 days ago"
+    },
+    {
+      "description": "Lazy loading: code-splitting with @NgModules demo",
+      "repository": "angular-lazy-load-demo",
+      "username": "UltimateAngular",
+      "info": "TypeScript 63 46 Updated on Feb 19, 2019"
+    },
+    {
+      "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
+      "repository": "dokku",
+      "username": "dokku",
+      "info": "Shell 18,641 1,517 Updated 13 hours ago"
+    },
+    {
+      "description": "",
+      "repository": "serverless-node-crud-cloud-function",
+      "username": "alfianlosari",
+      "info": "JavaScript 20 6 Updated on Jun 5, 2018"
+    },
+    {
+      "description": "Node.js client for Google Cloud Firestore: a NoSQL document database built for automatic scaling, high performance, and ease of application development.",
+      "repository": "nodejs-firestore",
+      "username": "googleapis",
+      "info": "TypeScript 320 76 Updated 7 hours ago"
+    },
+    {
+      "description": "Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase",
+      "repository": "functions-samples",
+      "username": "firebase",
+      "info": "JavaScript 7,653 2,632 Updated 22 hours ago"
+    },
+    {
+      "description": "Flutter environment for use in actions. It works on Linux, Windows, and macOS.",
+      "repository": "flutter-action",
+      "username": "subosito",
+      "info": "TypeScript 144 9 Updated on Dec 30, 2019"
+    },
+    {
+      "description": "🕷 Build and release debug APK from your Android project",
+      "repository": "action-release-debugapk",
+      "username": "ShaunLWM",
+      "info": "Dockerfile 23 6 Updated on Nov 8, 2019"
+    },
+    {
+      "description": "Spring Boot + Birt Runtime + PHP Java Bridge + PHP Client",
+      "repository": "spring-boot-with-php",
+      "username": "armando-couto",
+      "info": "PHP 4 1 Updated on Jul 18, 2017"
+    },
+    {
+      "description": "All course files for the GraphQL tutorial playlist on The Net Ninja YouTube channel.",
+      "repository": "graphql-playlist",
+      "username": "iamshaunjp",
+      "info": "428 306 Updated on Dec 8, 2019"
+    },
+    {
+      "description": "",
+      "repository": "databinding-samples",
+      "username": "android",
+      "info": "Kotlin 968 238 Updated on Nov 16, 2019"
+    },
+    {
+      "description": "Cheat Sheets",
+      "repository": "Data-Science--Cheat-Sheet",
+      "username": "abhat222",
+      "info": "TeX 16,120 7,050 Updated 21 days ago"
+    },
+    {
+      "description": "A collection of useful .gitignore templates",
+      "repository": "gitignore",
+      "username": "github",
+      "info": "94,559 49,185 Updated 4 days ago"
+    },
+    {
+      "description": "Udemy tutorial - final project API completely dockerized",
+      "repository": "smart-brain-boost-api-dockerized",
+      "username": "aneagoie",
+      "info": "JavaScript 20 45 Updated on Aug 14, 2018"
+    },
+    {
+      "description": "Open source PostgreSQL GUI client for macOS, Linux and Windows",
+      "repository": "postbird",
+      "username": "Paxa",
+      "info": "JavaScript 795 72 Updated 10 days ago"
+    },
+    {
+      "description": "Cross-platform client for PostgreSQL databases",
+      "repository": "pgweb",
+      "username": "sosedoff",
+      "info": "Go 6,249 447 Updated 27 days ago"
+    },
+    {
+      "description": "Jest cheat sheet",
+      "repository": "jest-cheat-sheet",
+      "username": "sapegin",
+      "info": "2,970 328 Updated 11 hours ago"
+    },
+    {
+      "description": "",
+      "repository": "social-login-oauth2-spring-boot",
+      "username": "talk2amareswaran",
+      "info": "Java 23 19 Updated on Oct 31, 2018"
+    },
+    {
+      "description": "",
+      "repository": "SpringSecurityDemo",
+      "username": "navinreddy20",
+      "info": "Java 7 13 Updated on Jan 21, 2019"
+    }
+  ]
+}
