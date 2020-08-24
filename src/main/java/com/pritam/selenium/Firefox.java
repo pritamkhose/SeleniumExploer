@@ -6,7 +6,9 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.firefox.FirefoxBinary;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 
 //https://www.browserstack.com/guide/run-selenium-tests-using-firefox-driver
 // https://github.com/mozilla/geckodriver/releases/tag/v0.27.0
@@ -18,8 +20,14 @@ public class Firefox {
 
 		// Setting system properties of FirefoxDriver
 		// E:\Software\chromedriver_win32 D:\\ChromeDriver
-		System.setProperty("webdriver.gecko.driver", "E:\\Software\\Chromedriver\\geckodriver.exe");
-
+		// System.setProperty("webdriver.gecko.driver", "E:\\Software\\Chromedriver\\geckodriver.exe");
+		System.setProperty("webdriver.gecko.driver", "../geckodriver");
+		
+	    FirefoxBinary firefoxBinary = new FirefoxBinary();
+	    firefoxBinary.addCommandLineOptions("--headless");
+	    FirefoxOptions firefoxOptions = new FirefoxOptions();
+	    firefoxOptions.setBinary(firefoxBinary);
+		
 		// Instantiate a ChromeDriver class.
 		WebDriver driver = new FirefoxDriver(); // Creating an object of FirefoxDriver
 		driver.manage().window().maximize();
@@ -40,7 +48,7 @@ public class Firefox {
 		driver.navigate().to("http://www.javatpoint.com/");
 
 		// Maximize the browser
-		driver.manage().window().maximize();
+		//driver.manage().window().maximize();
 
 		// Scroll down the webpage by 5000 pixels
 		JavascriptExecutor js = (JavascriptExecutor) driver;
